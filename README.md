@@ -1,3 +1,4 @@
+[![Run on Repl.it](https://repl.it/badge/github/heyitsmaple/nintendo-bot)](https://repl.it/github/heyitsmaple/nintendo-bot)
 ![Tweetin'](https://botwiki.org/content/tutorials/make-an-image-posting-twitter-bot/images/posting-images.png)
 
 # random-image-twitterbot
